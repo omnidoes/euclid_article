@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Euclid Article feature.
+ */
+
+include_once 'euclid_article.features.inc';
